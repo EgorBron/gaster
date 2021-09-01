@@ -1,0 +1,2 @@
+# gaster
+# WARNING: A HUGE AMOUNT OF SHITCODE
