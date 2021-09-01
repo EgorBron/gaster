@@ -250,6 +250,6 @@ async def lic(ctx):
     img.save('infocard.png')
     await ctx.send(file = discord.File(fp = 'infocard.png'))
     
-token = 'NzU0NzI1NDQ2NTU3NDk5Mzkz.X1462A.Ma3jvZanDBKvzjPtlN9fF4hvGF0'
+token = ''
 
 client.run(token)
